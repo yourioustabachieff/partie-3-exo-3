@@ -1,0 +1,79 @@
+
+
+
+body{
+
+
+    margin: 0;
+    padding: 0;
+}
+
+
+.grid > div {
+
+   
+    border: solid 20px white ;
+}
+
+.grid{
+
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 100px 100px 100px ;
+}
+
+
+.case1{
+
+    background-color: red;
+
+}
+
+.case2{
+
+    background-color: rgb(84, 84, 184);
+
+}
+
+.case3{
+
+    background-color: rgb(145, 168, 109);
+
+}
+
+.case4{
+
+    background-color: rgb(216, 125, 216);
+
+}
+
+.case5{
+
+    background-color: orange;
+
+}
+
+.case6{
+
+    background-color:rgb(42, 42, 104);
+    
+}
+
+.case7{
+
+    background-color:red;
+}
+
+.case8{
+ 
+    background-color:rgb(83, 119, 29);
+    
+}
+
+.case9{
+
+    background-color:rgb(80, 80, 185);
+    
+}
+
+
